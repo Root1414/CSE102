@@ -22,7 +22,7 @@ else { System.out.println(wr);}
 int swtc = kb.nextInt();
 switch(swtc) {
 
-    case 1 :
+    case 1 : //vf
      System.out.println("Give me to numbers :");
     break;
 
